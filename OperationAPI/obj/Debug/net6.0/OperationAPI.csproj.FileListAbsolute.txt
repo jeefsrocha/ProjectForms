@@ -1,0 +1,15 @@
+C:\Users\jefer\ProjetoVisualEstudio\ProjetoForms\OperationAPI\bin\Debug\net6.0\OperationAPI.deps.json
+C:\Users\jefer\ProjetoVisualEstudio\ProjetoForms\OperationAPI\bin\Debug\net6.0\OperationAPI.dll
+C:\Users\jefer\ProjetoVisualEstudio\ProjetoForms\OperationAPI\bin\Debug\net6.0\OperationAPI.pdb
+C:\Users\jefer\ProjetoVisualEstudio\ProjetoForms\OperationAPI\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jefer\ProjetoVisualEstudio\ProjetoForms\OperationAPI\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jefer\ProjetoVisualEstudio\ProjetoForms\OperationAPI\obj\Debug\net6.0\OperationAPI.csproj.AssemblyReference.cache
+C:\Users\jefer\ProjetoVisualEstudio\ProjetoForms\OperationAPI\obj\Debug\net6.0\OperationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefer\ProjetoVisualEstudio\ProjetoForms\OperationAPI\obj\Debug\net6.0\OperationAPI.AssemblyInfoInputs.cache
+C:\Users\jefer\ProjetoVisualEstudio\ProjetoForms\OperationAPI\obj\Debug\net6.0\OperationAPI.AssemblyInfo.cs
+C:\Users\jefer\ProjetoVisualEstudio\ProjetoForms\OperationAPI\obj\Debug\net6.0\OperationAPI.csproj.CoreCompileInputs.cache
+C:\Users\jefer\ProjetoVisualEstudio\ProjetoForms\OperationAPI\obj\Debug\net6.0\OperationAPI.csproj.CopyComplete
+C:\Users\jefer\ProjetoVisualEstudio\ProjetoForms\OperationAPI\obj\Debug\net6.0\OperationAPI.dll
+C:\Users\jefer\ProjetoVisualEstudio\ProjetoForms\OperationAPI\obj\Debug\net6.0\refint\OperationAPI.dll
+C:\Users\jefer\ProjetoVisualEstudio\ProjetoForms\OperationAPI\obj\Debug\net6.0\OperationAPI.pdb
+C:\Users\jefer\ProjetoVisualEstudio\ProjetoForms\OperationAPI\obj\Debug\net6.0\ref\OperationAPI.dll
